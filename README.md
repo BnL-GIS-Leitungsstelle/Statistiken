@@ -3,7 +3,7 @@
 ## Zeitliche Entwicklung der Bundesinventare und Schutzgebiete
 
 Für Arten- und Lebensraumschutz
-<p align="center">
+<p align="left">
   <img width="600" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/05_ResultA.png">
 </p>
 
