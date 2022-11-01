@@ -4,11 +4,11 @@
 
 Für Arten- und Lebensraumschutz
 <p align="center">
-  <img width="460" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/05_ResultA.png">
+  <img width="600" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/05_ResultA.png">
 </p>
 
 
 Für Landschaftsschutz
 <p align="center">
-  <img width="460" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/doc/img/06_ResultB.png">
+  <img width="460" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/doc/img/05_ResultB.png">
 </p>
