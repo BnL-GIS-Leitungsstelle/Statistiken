@@ -11,8 +11,7 @@
 
 | Type        | Download           | Stand  |
 | ------------- |:-------------:| -----:|
-| <img width="40" src="/doc/assets/csv_logo.png">      | [CSV - File](https://www.google.com) | 01.11.2022 |
-| <img width="40" src="/doc/assets/xls_logo.png">      | [XLSX - File](https://www.google.com)      |   01.11.2022 |
+| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Flaechenstatistik_1961_to_2021_created_2022-11-01.xlsx)      |   01.11.2022 |
 
 
 
