@@ -4,7 +4,7 @@
 
 Für Arten- und Lebensraumschutz
 <p align="left">
-  <img width="600" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/05_ResultA.png">
+  <img width="600" src="/doc/img/Flaechenstatistik_kleine_Gebiete_1961_to_2021_created_2022-11-01.png">
 </p>
 
 <code>
@@ -14,5 +14,5 @@ test
 
 Für Landschaftsschutz
 <p align="center">
-  <img width="460" src="https://github.com/BnL-GIS-Leitungsstelle/Indikator-Parallel-Calculation-Python/blob/master/doc/img/doc/img/05_ResultB.png">
+  <img width="460" src="/doc/img/doc/img/Flaechenstatistik_BLN_Paerke_1961_to_2021_created_2022-11-01.png">
 </p>
