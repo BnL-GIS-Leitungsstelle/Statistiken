@@ -18,11 +18,6 @@ Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbind
 
 
 
-<code>
-test
-</code>
-
-
 ### Gebiete für Landschaftsschutz
 <p align="left">
   <img width="800" height="400" src="/doc/img/Flaechenstatistik_BLN_Paerke_1961_to_2021_created_2022-11-01.png">
