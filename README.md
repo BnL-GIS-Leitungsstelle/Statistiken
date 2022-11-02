@@ -4,7 +4,7 @@
 
 ### Gebiete für Arten- und Lebensraumschutz
 <p align="left">
-  <img width="800" height="400" src="/doc/img/Flaechenstatistik_kleine_Gebiete_1961_to_2021_created_2022-11-01.png">
+  <img width="800" height="400" src="/doc/img/Flaechenstatistik_Arten_und_Lebensraumschutz_1961_to_2021_created_2022-11-01.png">
 </p>
 
 #### Daten
