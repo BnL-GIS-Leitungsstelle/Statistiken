@@ -2,6 +2,8 @@
 
 ## Zeitliche Entwicklung der Bundesinventare und Schutzgebiete
 
+Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbindlichen Stände der Bundesinventare und weiterer Schutzgebiete. Zur besseren Darstellung sind die Grafiken unterteilt in "Gebiete für Arten und Lebensraumschutz" sowie "Gebiete für Landschaftsschutz".
+
 ### Gebiete für Arten- und Lebensraumschutz
 <p align="left">
   <img width="800" height="400" src="/doc/img/Flaechenstatistik_Arten_und_Lebensraumschutz_1961_to_2021_created_2022-11-01.png">
@@ -27,7 +29,9 @@ test
 </p>
 
 #### Daten
-<p align="left">
-  <img width="40" src="/doc/assets/csv_logo.png">
-</p>
+| Type        | Download           | Stand  |
+| ------------- |:-------------:| -----:|
+| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/Flaechenstatistik_BLN_Paerke_1961_to_2021_created_2022-11-01.png)      |   01.11.2022 |
+| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Flaechenstatistik_1961_to_2021_created_2022-11-01.xlsx)      |   01.11.2022 |
+
 
