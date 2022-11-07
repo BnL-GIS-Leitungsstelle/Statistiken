@@ -1,9 +1,9 @@
 # Flächenstatistiken aus Geodaten der Abteilung Biodiversität und Landschaft (BnL) des BAFU
 
 Inhaltsverzeichnis
- <a href="#Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</a>
- <a href="#Nationale Schutzgebiete">2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete</a>
- <a href="#Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensaumschutz)</a>
+- <a href="#Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</a>
+- <a href="#Nationale Schutzgebiete">2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete</a>
+- <a href="#Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensaumschutz)</a>
 
 <h2 id="Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</h2>
 Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbindlichen Stände der Bundesinventare und weiterer Schutzgebiete. Zur besseren Darstellung sind die Grafiken unterteilt in "Gebiete für Arten und Lebensraumschutz" sowie "Gebiete für Landschaftsschutz".
