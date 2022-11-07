@@ -37,7 +37,7 @@ Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbind
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/ZeitlicheEntwicklungBundesinventareUndSchutzgebiete_LandschaftsschutzNational_Stand2021.xlsx)      |   01.11.2022 |
 
 
-## 2. Ausgewiesene Gebite für Biodiversität - Nationale Schutzgebiete
+## 2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete
 
 Viele Lebensräume kommen in der Schweiz nur noch auf sehr kleinen Flächen vor. Schutzgebiete tragen dazu bei, diese zu erhalten, und spielen eine zentrale Rolle beim Schutz der Biodiversität in der Schweiz. Dank ihnen können Artenbestände in ihrem angestammten Lebensraum erhalten werden, können sich Bestände gefährdeter Arten wieder erholen und können Ökosysteme ihre Funktionen wahrnehmen. Ausserdem tragen die Schutzgebiete zur Erhaltung der landschaftlichen Vielfalt der Schweiz bei.
 
