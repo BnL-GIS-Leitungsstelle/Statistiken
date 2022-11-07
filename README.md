@@ -3,7 +3,7 @@
 Inhaltsverzeichnis
 
 - 1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete
-- 2. Ausgewiesene Gebite für Biodiversität - Nationale Schutzgebiete
+- 2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete
 
 
 
