@@ -46,14 +46,14 @@ Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewi
 
 ### Nationale Schutzgebiete
 <p align="left">
-  <img width="800" height="400" src="/doc/img/Flaechenstatistik_Arten_und_Lebensraumschutz_1961_to_2021_created_2022-11-01.png">
+  <img width="800" height="400" src="/doc/img/BD160_NationaleSchutzgebiete.png">
 </p>
 
 #### Daten
 
 | Type        | Download           | Stand  |
 | ------------- |:-------------:| -----:|
-| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/Flaechenstatistik_Arten_und_Lebensraumschutz_1961_to_2021_created_2022-11-01.png)      |   01.11.2022 |
-| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/ZeitlicheEntwicklungBundesinventareUndSchutzgebiete_ArtenUndLebensraumschutz_Stand2021.xlsx)  |   01.11.2022 |
+| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/BD160_NationaleSchutzgebiete.png)      |   01.11.2022 |
+| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_BD160_NationaleSchutzgebiete_Stand2021.xlsx)  |   01.11.2022 |
 
 
