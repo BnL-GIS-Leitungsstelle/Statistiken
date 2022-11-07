@@ -3,7 +3,7 @@
 Inhaltsverzeichnis
 - <a href="#Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</a>
 - <a href="#Nationale Schutzgebiete">2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete</a>
-- <a href="#Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensaumschutz)</a>
+- <a href="#Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensraumschutz)</a>
 
 <h2 id="Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</h2>
 Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbindlichen Stände der Bundesinventare und weiterer Schutzgebiete. Zur besseren Darstellung sind die Grafiken unterteilt in "Gebiete für Arten und Lebensraumschutz" sowie "Gebiete für Landschaftsschutz".
@@ -52,7 +52,7 @@ Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewi
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_BD160_NationaleSchutzgebiete_Stand2021.xlsx)  |   01.11.2022 |
 
 
-<h2 id="Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensaumschutz) </h2>
+<h2 id="Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensraumschutz) </h2>
 
 
 ### Schutzgebiete von nationaler Bedeutung
