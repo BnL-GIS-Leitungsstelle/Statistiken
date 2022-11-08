@@ -58,7 +58,7 @@ Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewi
 ### Schutzgebiete von nationaler Bedeutung
 Anteil an der Landesfläche (Flächen mit Mehrfachnutzung nur einmal gezählt)
 <p align="left">
-  <img width="800" height="400" src="/doc/img/BD160_NationaleSchutzgebiete.png">
+  <img width="800" height="400" src="/doc/img/Schutzgebiete_von_nationaler_Bedeutung_Stand2021.png">
 </p>
 
 1) Landschaften und Naturdenkmäler von nationaler Bedeutung & Moorlandschaften, die nicht bereits in die Gebeite unter (2) fallen.
@@ -69,6 +69,6 @@ Anteil an der Landesfläche (Flächen mit Mehrfachnutzung nur einmal gezählt)
 
 | Type        | Download           | Stand  |
 | ------------- |:-------------:| -----:|
-| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/BD160_NationaleSchutzgebiete.png)      |   01.11.2022 |
+| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/Schutzgebiete_von_nationaler_Bedeutung_Stand2021.png)      |   01.11.2022 |
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_NationaleSchutzgebieteLandschaftNatBedeutung_Stand2021.xlsx)  |   01.11.2022 |
 
