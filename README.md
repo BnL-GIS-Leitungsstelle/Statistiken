@@ -61,7 +61,7 @@ Anteil an der Landesfläche (Flächen mit Mehrfachnutzung nur einmal gezählt)
   <img width="800" height="400" src="/doc/img/Schutzgebiete_von_nationaler_Bedeutung_Stand2021.png">
 </p>
 
-1) Landschaften und Naturdenkmäler von nationaler Bedeutung & Moorlandschaften, die nicht bereits in die Gebeite unter (2) fallen.
+1) Landschaften und Naturdenkmäler von nationaler Bedeutung & Moorlandschaften, die nicht bereits in die Gebiete unter (2) fallen.
 2) Nationalpark, Kernzone der Pärke, Hoch- und Flachmoore, Auengebiete, Amphibienlaichgebiete, Trockenwiesen und -weiden, Wasser- und Zugvogelreservate, eidg. Jagdbanngebiete
 
 
