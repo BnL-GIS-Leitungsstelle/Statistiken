@@ -41,14 +41,14 @@ Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewi
 
 ### Nationale Schutzgebiete
 <p align="left">
-  <img width="800" height="400" src="/doc/img/BD160_NationaleSchutzgebiete.png">
+  <img width="800" height="400" src="/doc/img/BD160_NationaleSchutzgebiete_Stand2021.png">
 </p>
 
 #### Daten
 
 | Type        | Download           | Stand  |
 | ------------- |:-------------:| -----:|
-| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/BD160_NationaleSchutzgebiete.png)      |   01.11.2022 |
+| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/BD160_NationaleSchutzgebiete_Stand2021.png)      |   01.11.2022 |
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_BD160_NationaleSchutzgebiete_Stand2021.xlsx)  |   01.11.2022 |
 
 
@@ -71,4 +71,23 @@ Anteil an der Landesfläche (Flächen mit Mehrfachnutzung nur einmal gezählt)
 | ------------- |:-------------:| -----:|
 | <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/Schutzgebiete_von_nationaler_Bedeutung_Stand2021.png)      |   01.11.2022 |
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_NationaleSchutzgebieteLandschaftNatBedeutung_Stand2021.xlsx)  |   01.11.2022 |
+
+
+<h2 id="Schutzgebiete National">4. Landschaften von nationaler Bedeutung (LA 058) </h2>
+
+
+### Landschaften von nationaler Bedeutung
+Anteil an der Landesfläche
+<p align="left">
+  <img width="800" height="400" src="/doc/img/LandschaftNatBedeutung_Stand2022.png">
+</p>
+
+Landschaften und Naturdenkmäler von nationaler Bedeutung, Moorlandschaften, Pärke mit Schweizerischem Nationalpark, VAEW-Gebiete, UNESCO-Weltnaturerbe-Gebiete sowie die überlagerungfreie Flächensumme dieser Gebiete.
+
+#### Daten
+
+| Type        | Download           | Stand  |
+| ------------- |:-------------:| -----:|
+| <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/LandschaftNatBedeutung_Stand2022.png)      |   01.01.2023 |
+| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_LA058_LandschaftNatBedeutung_Stand2022.xlsx)  |   01.01.2023 |
 
