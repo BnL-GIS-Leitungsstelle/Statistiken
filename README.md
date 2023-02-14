@@ -5,6 +5,7 @@ Inhaltsverzeichnis
 - <a href="#Nationale Schutzgebiete">2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete (BD 160)</a>
 - <a href="#Schutzgebiete National">3. Schutzgebiete von nationaler Bedeutung (Landschaften sowie Arten- und Lebensraumschutz) (FS 1390 neu)</a>
 - <a href="#Landschaften National">4. Landschaften von nationaler Bedeutung (LA 058)</a>
+- <a href="#Gebiete Biodiversity">5. Ausgewiesene Gebiete für die Biodiversität gem. SBS 2012</a>
 
 
 <h2 id="Zeitliche Entwicklung">1. Zeitliche Entwicklung der Bundesinventare und Schutzgebiete</h2>
@@ -79,7 +80,6 @@ Anteil an der Landesfläche (Flächen mit Mehrfachnutzung nur einmal gezählt)
 
 <h2 id="Landschaften National">4. Landschaften von nationaler Bedeutung (LA 058) </h2>
 
-
 ### Landschaften von nationaler Bedeutung
 Anteil an der Landesfläche
 <p align="left">
@@ -94,4 +94,22 @@ Landschaften und Naturdenkmäler von nationaler Bedeutung, Moorlandschaften, Pä
 | ------------- |:-------------:| -----:|
 | <img width="30" src="/doc/assets/png_logo.png">      | [PNG - File](/doc/img/LandschaftNatBedeutung_Stand2022.png)      |   01.01.2023 |
 | <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Indikator_LA058_LandschaftNatBedeutung_Stand2022.xlsx)  |   01.01.2023 |
+
+
+<h2 id="Gebiete Biodiversity">5. Ausgewiesene Gebiete für die Biodiversität gem. SBS 2012</h2>
+
+### Ausgewiesene Gebiete für die Biodiversität gemäss SBS 2012
+Karte
+<p align="left">
+  <img width="800" height="400" src="/doc/img/Karte_Ausgewiesene_Gebiete_für_die_Biodiversität_SBS_2012_Stand2023.png">
+</p>
+
+Darstellung der Gebiete: Schweizerischer Nationalpark, Kernzone der Naturerlebnispärke, Biotope von nationaler Bedeutung, Wasser- und Zugvogelreservate, Eidgenössische Jagdbanngebiete, Waldreservate, Smaragdgebiete, Biodiversitätsförderflächen Qualitätsstufe II, Naturschutzgebeite Dritter
+
+#### Daten
+
+| Type        | Download           | Stand  |
+| ------------- |:-------------:| -----:|
+| <img width="30" src="/doc/assets/pdf_logo.png">      | [PDF - File](/doc/Karte_Ausgewiesenen_Gebiete_für_die_Biodiversität_SBS_2012_1000dpi.pdf)      |   01.02.2023 |
+| <img width="30" src="/doc/assets/xls_logo.png">      | [XLSX - File](/doc/Ausgewiesene_Gebiete_für_die_Biodiversität_SBS_2012_20230201.xlsx)  |   01.02.2023 |
 
