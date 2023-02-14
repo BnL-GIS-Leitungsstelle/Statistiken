@@ -101,10 +101,10 @@ Landschaften und Naturdenkmäler von nationaler Bedeutung, Moorlandschaften, Pä
 ### Ausgewiesene Gebiete für die Biodiversität gemäss SBS 2012
 Karte
 <p align="left">
-  <img width="800" height="400" src="/doc/img/Karte_Ausgewiesene_Gebiete_für_die_Biodiversität_SBS_2012_Stand2023.png">
+  <img width="600" height="400" src="/doc/img/Karte_Ausgewiesene_Gebiete_für_die_Biodiversität_SBS_2012_Stand2023.png">
 </p>
 
-Darstellung der Gebiete: Schweizerischer Nationalpark, Kernzone der Naturerlebnispärke, Biotope von nationaler Bedeutung, Wasser- und Zugvogelreservate, Eidgenössische Jagdbanngebiete, Waldreservate, Smaragdgebiete, Biodiversitätsförderflächen Qualitätsstufe II, Naturschutzgebeite Dritter
+Darstellung der Gebiete: Schweizerischer Nationalpark, Kernzone der Naturerlebnispärke, Biotope von nationaler Bedeutung, Wasser- und Zugvogelreservate, Eidgenössische Jagdbanngebiete, Waldreservate, Smaragdgebiete, Biodiversitätsförderflächen Qualitätsstufe II, Naturschutzgebiete Dritter
 
 #### Daten
 
