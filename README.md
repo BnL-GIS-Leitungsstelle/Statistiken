@@ -49,6 +49,10 @@ Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewi
   <img width="800" height="400" src="/doc/img/BD160_NationaleSchutzgebiete_Stand2021.png">
 </p>
 
+[![Datawrapper Chart](https://datawrapper.dwcdn.net/KekTp/full.png)](https://datawrapper.dwcdn.net/KekTp/)
+
+Diese Grafik wurde mit Datawrapper erstellt, klicken Sie auf die Grafik, um die interaktive Version zu sehen.
+
 #### Daten
 
 | Type        | Download           | Stand  |
