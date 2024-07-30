@@ -39,6 +39,9 @@ Die folgende Flächenstatistik zeigt die zeitliche Entwicklung der rechtsverbind
 
 <h2 id="Nationale Schutzgebiete">2. Ausgewiesene Gebiete für Biodiversität - Nationale Schutzgebiete (BD 160)</h2>
 
+<iframe title="Ausgewiesene Gebiete für Biodiversität (BD160) in Hektar" aria-label="Interactive line chart" id="datawrapper-chart-KekTp" src="https://datawrapper.dwcdn.net/KekTp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="486" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 Viele Lebensräume kommen in der Schweiz nur noch auf sehr kleinen Flächen vor. Schutzgebiete tragen dazu bei, diese zu erhalten, und spielen eine zentrale Rolle beim Schutz der Biodiversität in der Schweiz. Dank ihnen können Artenbestände in ihrem angestammten Lebensraum erhalten werden, können sich Bestände gefährdeter Arten wieder erholen und können Ökosysteme ihre Funktionen wahrnehmen. Ausserdem tragen die Schutzgebiete zur Erhaltung der landschaftlichen Vielfalt der Schweiz bei.
 
 Die für den Schutz und die Förderung der Biodiversität in der Schweiz ausgewiesenen Gebiete tragen dazu bei, das Aichi-Ziel Nr. 11 zu erreichen, welches im Strategischen Plan zur Biodiversität 2011–2020 der Biodiversitätskonvention (CBD) definiert wurde. Gemäss der CBD müssen auf mindestens 17 % der Landfläche Schutzgebiete eingerichtet werden.
